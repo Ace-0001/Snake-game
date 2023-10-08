@@ -1,0 +1,3 @@
+Q = Increases High Score
+K = Increase the speed of the snake
+L = Reduce the speed of the snake
